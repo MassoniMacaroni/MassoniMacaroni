@@ -50,9 +50,8 @@
 
  <div align="center"> 
    
-[![GitHub Streak](https://github-read-streak-stats-git-main-massonimacaronis-projects.vercel.app?user=MassoniMacaroni&theme=nightowl&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MassoniMacaroni&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MassoniMacaroni&show_icons=true&theme=nightowl&hide_rank=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MassoniMacaroni&layout=compact&theme=nightowl&exclude_repo=github-read-streak-stats,massonimacaroni.github.io)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
