@@ -7,7 +7,9 @@
 </h1>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmp2OGdxYWg5czhtZm1rOGk4bzU5ZTY3cTRlZGhtZTJ4dGI3Mm40byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cg5FwpvDmhIcM/giphy.gif" width="600" height="300"/>
 <div id="badges">
+  <a href="https://jonointheclouds.dev/">
   <img src="https://img.shields.io/badge/My_Blog-blue?logo=ReadMe&logoColor=white" alt="Website"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=MassoniMacaroni&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
