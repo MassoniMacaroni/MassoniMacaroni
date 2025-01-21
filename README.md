@@ -10,6 +10,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmp2OGdxYWg5czhtZm1rOGk4bzU5ZTY3cTRlZGhtZTJ4dGI3Mm40byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cg5FwpvDmhIcM/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
 
