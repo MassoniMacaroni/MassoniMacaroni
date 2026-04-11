@@ -22,7 +22,7 @@
 
 - :seedling: Always trying to learn something new and pickup new skills
 
-- :gear: Big fan of Neovim and its customisability (wouldn't say I'm any good at it yet :sweat_smile:)
+- :gear: Big fan of Neovim and ricing in general... doesn't mean i'm any more productive
 
 - :zap: In my free time, I attempt to write a blog and am working on beginning to contribute to open source.
 
@@ -42,16 +42,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" **alt="Terraform" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="lua" **alt="lua" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="K8s" **alt="K8s" width="40" height="40"/>
-</div>
-
----
-
-### :fire: My Github stats:
-
- <div align="center"> 
-   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MassoniMacaroni&show_icons=true&theme=nightowl&hide_rank=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MassoniMacaroni&layout=compact&theme=nightowl&exclude_repo=github-read-streak-stats,massonimacaroni.github.io)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
