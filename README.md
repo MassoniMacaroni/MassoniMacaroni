@@ -8,7 +8,7 @@
   <figure>
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmp2OGdxYWg5czhtZm1rOGk4bzU5ZTY3cTRlZGhtZTJ4dGI3Mm40byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cg5FwpvDmhIcM/giphy.gif" width="600" height="300"/>
     <br />
-    <figcaption>Monkey on keyboard</figcaption>
+    <figcaption>my typical senseless keyboard mashing.</figcaption>
   </figure>
 <div id="badges">
   <a href="https://jonointheclouds.dev/">
@@ -36,7 +36,7 @@
   <figure>
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeml2dzhlbGlndXpzZHZpZzZoZGNzeTB1ZTBtOGdyZmFmeWhwcXliayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
     <br />
-    <figcaption>Monkey on keyboard again!</figcaption>
+    <figcaption>Monkey on a keyboard!</figcaption>
   </figure>
 </div>
 
